@@ -1,0 +1,9 @@
+* binascii
+
+A library of ASCII encoding schemes for binary data, written in Common Lisp
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/sharplispers/binascii.git |
+| commit  | 0fb0a9e                                          |
+| systems | binascii                                         |
+|---------+--------------------------------------------------|
